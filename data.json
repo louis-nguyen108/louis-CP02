@@ -1,0 +1,20 @@
+{
+  "images":
+  [
+    {
+      "id": 1,
+      "name": "Firetruck",
+      "image": "/images/firetruck.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Crane",
+      "image": "/images/crane.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Easter Bunny",
+      "image": "/images/easter-bunny.jpg"
+    }
+  ]
+}
